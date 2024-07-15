@@ -12,7 +12,7 @@ body {
 .snow, .snow:after, .snow:before {
 	content: "";
 	position: absolute;
-	top: 0px;
+	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
@@ -27,9 +27,6 @@ body {
 	radial-gradient(10px 10px at 250px 400px, #fff, transparent),
 	radial-gradient(7px 7px at 350px 500px, #fff, transparent);
 	background-size: 650px 650px;
-	
-	animation: snowAnim 3s linear;
-	animation-iteration-count: infinite;
 }
 
 .snow:after{
@@ -45,22 +42,3 @@ body {
 }
 
 
-@keyframes snowAnim
-{
-	from{
-		transform: translateY(0);
-	}
-	to{
-		transform: translateY(650px);
-	}
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
