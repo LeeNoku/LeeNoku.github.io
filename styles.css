@@ -86,6 +86,10 @@ body {
 	display: inline-flex;
 }
 
+#inlineB {
+	display: inline-block;
+}
+
 #bodyContent {
 	padding-bottom: 50px;
 	font-family: Garamond;
