@@ -6,7 +6,7 @@ body {
   padding: 70px 0;
   padding-bottom: 0px;
   text-align: center;
-  padding-top: 30px;
+  padding-top: 15px;
 }
 
 .textbox {
@@ -74,12 +74,12 @@ body {
 }
 
 #melo1{
-	width: 75%;
-	height: 75%;
+	width: 50%;
+	height: 50%;
 }
 #melo3{
-	width: 75%;
-	height: 75%;
+	width: 50%;
+	height: 50%;
 }
 
 #inlineC {
@@ -111,6 +111,6 @@ body {
 
 #titleContent {
   font-family: cursive;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: bold;
 }
