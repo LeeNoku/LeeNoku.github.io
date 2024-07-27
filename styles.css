@@ -12,7 +12,7 @@ body {
 .textbox {
   padding: 5px;
   padding-left: 0px;
-  padding-top:100px;
+  padding-top:70px;
   width:33%;
   
   
@@ -74,12 +74,12 @@ body {
 }
 
 #melo1{
-	width: 20%;
-	height: 20%;
+	width: 25%;
+	height: 25%;
 }
 #melo3{
-	width: 15%;
-	height: 15%;
+	width: 25%;
+	height: 25%;
 }
 
 #inlineC {
