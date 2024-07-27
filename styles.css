@@ -88,6 +88,7 @@ body {
 
 #inlineB {
 	display: inline-block;
+	height: fit-content;
 }
 
 #bodyContent {
